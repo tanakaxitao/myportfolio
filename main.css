@@ -808,6 +808,10 @@ main .sobre {
   color: #707070;
 }
 
+.social_links {
+  text-decoration: none;
+  color: #707070;
+}
 @keyframes animationButton {
   0% {
     opacity: 0;
